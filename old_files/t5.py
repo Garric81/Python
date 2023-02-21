@@ -1,6 +1,4 @@
 abcd = int(input())
-
-
 a = abcd // 1000
 b = (abcd % 1000) // 100
 c = (abcd % 100) // 10
